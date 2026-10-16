@@ -1,0 +1,19 @@
+FOTOS DO SITE - Vidal Cortinas
+
+Coloque nesta pasta as imagens com exatamente estes nomes.
+Enquanto uma foto não existir, o site mostra um espaço cinza no lugar.
+
+Arquivo            Onde aparece                              Tamanho sugerido
+logo-vidal.png     Logo (cabeçalho e rodapé)                 logo real, recortada do print do Instagram
+                                                             (troque pelo arquivo original quando a Vidal enviar)
+hero.jpg           Foto grande do topo                       vertical, até 1100 px de largura
+sobre.jpg          Foto da seção "Sobre nós"                 até 1100 px de largura
+projeto-01.jpg     Galeria (a 1ª fica mais alta)             até 1100 px de largura
+projeto-02.jpg ... projeto-07.jpg   Galeria
+og-image.jpg       Imagem do link no WhatsApp/Facebook       1200 x 630 px
+favicon.png        Ícone da aba do navegador                 64 x 64 px
+favicon-180.png    Ícone no celular                          180 x 180 px
+
+Origem das fotos atuais: banco gratuito Unsplash (unsplash.com, licença livre para uso comercial).
+São fotos ilustrativas, não são trabalhos da Vidal. Troque pelas fotos reais quando tiver.
+Não use imagens do Google (direitos autorais).
