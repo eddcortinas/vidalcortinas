@@ -22,7 +22,7 @@
   --raio: 20px;
   --raio-sm: 12px;
   --sombra: 0 10px 30px -12px rgba(17, 17, 17, .18);
-  --header-h: 76px;
+  --header-h: 124px;
   --container: 1180px;
 }
 
@@ -199,7 +199,7 @@ section[id] { scroll-margin-top: calc(var(--header-h) + 8px); }
 }
 .logo img {
   display: block;
-  height: 64px;
+  height: 112px;
   width: auto;
 }
 /* Rodapé escuro */
@@ -1054,8 +1054,8 @@ section[id] { scroll-margin-top: calc(var(--header-h) + 8px); }
 }
 
 @media (max-width: 860px) {
-  :root { --header-h: 68px; }
-  .logo img { height: 52px; }
+  :root { --header-h: 92px; }
+  .logo img { height: 80px; }
 
   .hamburger { display: block; }
 
